@@ -3,7 +3,7 @@ import gpt3Logo from "../../assets/logo.svg";
 import "./footer.css";
 
 const Footer = () => (
-  <div className="gpt3__footer section__padding">
+  <div className="gpt3__footer section__padding" id="footer">
     <div className="gpt3__footer-heading">
       <h1 className="gradient__text">
         Do you want to step in to the future before others

@@ -2,7 +2,7 @@ import React from 'react';
 import './Feature.css';
 
 const Feature = ({ title, text }) => (
-  <div className="gpt3__features-container__feature">
+  <div className="gpt3__features-container__feature" id="features">
     <div className="gpt3__features-container__feature-title">
       <div />
       <h1>{title}</h1>
