@@ -5,7 +5,7 @@ const possibility = () => {
   return (
     <div className="gpt__possibility section__padding" id="possibility">
       <div className="possibility__image">
-        <img src={possibilityImage} alt="possibilityImage" />
+        <img src={possibilityImage} alt="possibilityImage" className="kenburns-bottom"/>
       </div>
       <div className="gpt__possibility-content">
         <h4>Request Early Access to Get Started</h4>
